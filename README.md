@@ -19,8 +19,9 @@
 
 ## SCREEN IMAGES
 
-* Card presentation screen
-<img src>
+* Card presentation screen</br>
+
+![Captura de tela_20221211_191001](https://user-images.githubusercontent.com/3092411/206933234-ba60de87-117b-4522-8cda-fc2cfea3c983.png)
 
 * Search screen for specific cards
 
